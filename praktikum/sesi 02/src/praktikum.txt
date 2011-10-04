@@ -1,0 +1,7 @@
+public class praktikum{
+	public static void main(String[] args){
+int x = 10;
+long y = x;
+
+long a = 5;
+int b = a;
